@@ -8,5 +8,10 @@ namespace myTestApp
         {
             Console.WriteLine("Hello World!");
         }
+        public void ersteFunktion()
+        {
+            Console.WriteLine("erste public Funktion");
+        }
     }
+
 }
