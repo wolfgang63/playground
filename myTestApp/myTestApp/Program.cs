@@ -12,6 +12,10 @@ namespace myTestApp
         {
             Console.WriteLine("erste public Funktion");
         }
+        public void zweiteFunktion()
+        {
+            Console.WriteLine("zweite public Funktion");
+        }
     }
 
 }
